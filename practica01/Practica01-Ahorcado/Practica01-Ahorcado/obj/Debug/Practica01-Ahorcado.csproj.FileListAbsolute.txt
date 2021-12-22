@@ -1,0 +1,16 @@
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01-Ahorcado.csproj.AssemblyReference.cache
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01_Ahorcado.Properties.Resources.resources
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01_Ahorcado.VentanaPartida.resources
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01-Ahorcado.csproj.GenerateResource.cache
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01-Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\bin\Debug\Practica01-Ahorcado.exe.config
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\bin\Debug\Practica01-Ahorcado.exe
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\bin\Debug\Practica01-Ahorcado.pdb
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01-Ahorcado.exe
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01-Ahorcado.pdb
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01_Ahorcado.VentanaPartida2.resources
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01_Ahorcado.inicio.resources
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\bin\Debug\Practica01-Ahorcado.exe.manifest
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\bin\Debug\Practica01-Ahorcado.application
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01-Ahorcado.exe.manifest
+C:\Users\ivanm\DATA\instituto\disenoDeInterfaces\practicas\practica01\Practica01-Ahorcado\Practica01-Ahorcado\obj\Debug\Practica01-Ahorcado.application
